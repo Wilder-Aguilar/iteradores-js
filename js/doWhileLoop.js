@@ -8,7 +8,7 @@
 
 
 
-//FIZBUZZ
+//FIZZBUZZ
 
 let i = 0;  //Inicio
 do{
